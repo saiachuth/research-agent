@@ -1,4 +1,4 @@
-from ddgs import DDGS
+from duckduckgo_search import DDGS
 from src.state.state import AgentState
 
 def web_researcher_node(state: AgentState):
