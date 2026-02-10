@@ -2,7 +2,7 @@ langgraph
 langchain
 langchain-groq
 langchain-community
-duckduckgo-search
+ddgs
 beautifulsoup4
 python-dotenv
 streamlit
